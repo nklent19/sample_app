@@ -62,7 +62,7 @@ GEM
     coffee-script (2.4.1)
       coffee-script-source
       execjs
-    coffee-script-source (1.9.1.1)
+    coffee-script-source (1.8.0)
     columnize (0.9.0)
     debugger-linecache (1.2.0)
     erubis (2.7.0)
@@ -250,6 +250,7 @@ DEPENDENCIES
   byebug (= 3.4.0)
   carrierwave (= 0.10.0)
   coffee-rails (= 4.1.0)
+  coffee-script-source (= 1.8.0)
   faker (= 1.4.2)
   fog (= 1.23.0)
   guard-minitest (= 2.3.1)
